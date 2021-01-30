@@ -8,7 +8,7 @@ const messages = {
   en,
   ru,
 }
-
+console.log('here')
 export const i18n = createI18n({
   legacy: true,
   locale: 'en',
